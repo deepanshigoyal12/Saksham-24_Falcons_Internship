@@ -1,0 +1,3 @@
+Question .  what is Eval function and input ?
+Ans= Eval:The eval function dynamically evaluates a string as a Python expression.
+ Input :  The input function  prompts the user to enter data through the console or a graphical user interface (GUI).
