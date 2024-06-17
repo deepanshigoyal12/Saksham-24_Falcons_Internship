@@ -5,7 +5,7 @@ print("Hello world")  #first program of print function
 
 # Data types 
 # 1. string  = "A to Z ", " anything "
-# 2. int  = decimal Base(0 to  9), binary Base (0 or 1 ), ocatl Base (o to 8 ), hexadecimal Base (0x101)(0 to 16) 
+# 2. int  = decimal Base(0 to  9), binary Base (0 or 1 ), ocatl Base (o to 8 ), hexadecimal Base (0x101)(0 to 16)
 # 3. Boolean = True, False 
 # 4. Float= 12.5,2.5,33.2,
 # 5. complex
