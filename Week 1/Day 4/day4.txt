@@ -1,0 +1,6 @@
+Difference between sort and sorted() ?
+
+Syntax: sorted(iterable, key, reverse=False) 
+
+Syntax: List_name.sort(key, reverse=False)
+
