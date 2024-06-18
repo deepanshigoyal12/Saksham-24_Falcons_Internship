@@ -40,3 +40,32 @@ print("Shuffled deck:", deck)
 # Seeding
 random.seed(42)
 print("Random number with seed 42:", random.random())
+
+import statistics as s
+
+l=[1,2,3,4,5,4,5]
+print(s.mean(l))
+
+print(s.median(l))
+
+print(s.mode(l))
+
+print(s.mode(l))
+
+t=[1,2,3,4,5,4,5,5,5,4]
+print(s.mode(t))
+
+
+'''=========Doc string======'''
+
+'''Doc string in python '''
+# doc string => understand to wahat code we write 
+
+def func():
+
+    '''this is function about the printig the value 
+    '''
+
+print("hiii")
+
+func()
