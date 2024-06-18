@@ -1,0 +1,53 @@
+web scrapping 
+
+
+library => beautifulsoup
+
+dynamic =>> weatther. airquality, creaker,api
+
+currnt siuaion according we are able to make decision
+
+
+fronted part => content 
+
+backend part => secure par and not visible to user 
+
+1. load website 
+2. parse html data
+3. extarct tidy data
+4. transform 
+
+pd.read_csv('')+ staticdata  => faults 
+
+for API 
+
+HTTP => request , request 
+
+
+[RESPONSE TYPES  status codes ]
+Informational responses (100 – 199)
+Successful responses (200 – 299)
+Redirection messages (300 – 399)
+Client error responses (400 – 499)
+Server error responses (500 – 599)
+
+
+client => link=> request=>server => then server priovides all content of website 
+Web scrapping - Fetching data from websites
+Need- to analyze the data of dynamic websites like weather, cricket score etc. We can make decisions according to current situations.
+Used to fetch front-end content which is visible to user.
+# Static data can have faults, and it is predefined.
+When we visit websites several times we get some error or the websites crashes. So it is because of reponse of our request that what we are requestiong to the server.
+Type Response code -
+HTTP reponse status code- indicates whether a specific HTTP request has been successfully completed.
+HTTP -> request, response.
+So to understand the response there are several status.
+In the given image
+# With the help of PARSE HTML we have imported whole html in page.txt
+And then we store it in the variable name soup.
+Then we are extracting the tidy data, from the page.txt so we will extract div tag And then we have attributes which is value pair that is class and name of the class is arrow link.
+
+
+response => get 
+
+form fillup => submit => post 
